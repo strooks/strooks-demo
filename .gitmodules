@@ -1,0 +1,3 @@
+[submodule "src/strooks"]
+	path = src/strooks
+	url = git@github.com:strooks/strooks.git
